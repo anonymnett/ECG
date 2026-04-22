@@ -39,7 +39,7 @@ pip-log.txt
 pip-delete-this-directory.txt
 
 *.npz
-*.txt
+
 *.csv
 
 # Unit test / coverage reports
