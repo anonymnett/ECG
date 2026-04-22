@@ -31,7 +31,6 @@ The proposed pipeline contains four main stages:
 3. Retrieval of top-K relevant reports using FAISS
 4. Gated cross-attention fusion for final classification
 
-[Add architecture figure here]
 
 ## Datasets
 
