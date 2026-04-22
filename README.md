@@ -99,9 +99,6 @@ jupyter notebook Mimic.ipynb
 
 The repository includes Grad-CAM visualizations for ECG signals to highlight diagnostically relevant waveform regions.
 
-## Citation
-
-If you use this repository, please cite our paper once published.
 
 ## License
 
