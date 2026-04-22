@@ -2,6 +2,16 @@
 
 This repository contains the code for a retrieval-augmented multimodal ECG classification framework that combines ECG waveforms with biomedical text using gated cross-attention and retrieval-based fusion.
 
+
+<p align="center">
+  <img src="figures/architecture.png" width="850"/>
+</p>
+
+<p align="center">
+  Overview of the proposed retrieval-augmented cross-attention fusion framework.
+</p>
+
+
 The proposed framework integrates:
 
 * ECG signal representations from 12-lead recordings
